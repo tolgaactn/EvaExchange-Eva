@@ -8,3 +8,4 @@ EvaExchange, kullanıcıların hisse senedi ticareti yapmasını sağlayan bir t
 - **Hisse Senedi Satım (SELL):** Kullanıcılar portföylerinde bulunan hisse senetlerini mevcut fiyattan satabilirler.
 - **Portföy Yönetimi:** Kullanıcılar portföylerini oluşturabilir ve yönetebilirler.
 - **Hisse Senedi Fiyat Güncelleme:** Saatlik olarak hisse senedi fiyatlarını güncelleyebilirsiniz.
+- **Hisse Ekleme:** Benzersiz bir sembole sahip fiyatını ve adedini belirlediğiniz hisseleri piyasaya ekleyebilirsiniz.
