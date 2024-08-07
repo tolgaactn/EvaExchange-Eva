@@ -1,6 +1,6 @@
-# EvaExchange
+# Exchange
 
-EvaExchange, kullanıcıların hisse senedi ticareti yapmasını sağlayan bir ticaret oyunu uygulamasıdır. Bu uygulama, kullanıcıların hisse senedi alım ve satım işlemlerini gerçekleştirmelerine ve ticaret terminolojisini öğrenmelerine yardımcı olur.
+Exchange, kullanıcıların hisse senedi ticareti yapmasını sağlayan bir ticaret oyunu uygulamasıdır. Bu uygulama, kullanıcıların hisse senedi alım ve satım işlemlerini gerçekleştirmelerine ve ticaret terminolojisini öğrenmelerine yardımcı olur.
 
 ## Özellikler
 
